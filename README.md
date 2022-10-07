@@ -15,3 +15,7 @@ npm i
 ```shell
 npm run cypress:open
 ```
+
+### Tutorials
+
+Learn more [here](https://docs.cypress.io/examples/examples/tutorials)
